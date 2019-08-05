@@ -1,2 +1,2 @@
 # leo
-leo robot
+leo is growing up
